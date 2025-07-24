@@ -1,7 +1,7 @@
 # Credit-Risk
 Goal is to create a probability of Default models using various methods and comparing the results
 
-#### Data set introduction : 
+#### Dataset introduction : 
 | Feature Name | Description |
 | ----- | ----- |
 | `SeriousDlqin2yrs` | Person experienced 90 days past due delinquency or worse. |
